@@ -90,7 +90,6 @@ MIT License - see LICENSE file for details
 
 ## 👨‍💻 Author
 George Michalopoulos (TGTF)
-Email: gmichalopoulos82@gmail.com
 
 ---
 *Built with security and usability in mind. No passwords are stored or transmitted. Completely self-contained.*
