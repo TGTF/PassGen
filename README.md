@@ -75,15 +75,12 @@ A secure, cryptographically-strong password generator with a modern dark theme U
 - Optimized DOM manipulation
 
 ## 🔄 Version Comparison
-This is the **Vanilla JavaScript version** - also available:
-- `pass_gen.html` - jQuery version (requires jQuery 3.6.0)
+This is the **Vanilla JavaScript version** 
 
-Choose this version if:
-- You want zero dependencies
-- You prefer modern vanilla JavaScript
-- You need maximum compatibility and portability
-- You want the fastest load times
-- You're building for environments without jQuery
+- Zero dependencies
+- Modern vanilla JavaScript
+- Maximum compatibility and portability
+- Fastest load times
 
 ## 📝 License
 MIT License - see LICENSE file for details
