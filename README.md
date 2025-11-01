@@ -86,7 +86,7 @@ This is the **Vanilla JavaScript version**
 MIT License - see LICENSE file for details
 
 ## 👨‍💻 Author
-George Michalopoulos (TGTF)
+George Michalopoulos
 
 ---
 *Built with security and usability in mind. No passwords are stored or transmitted. Completely self-contained.*
