@@ -2,7 +2,7 @@
 
 A secure, cryptographically-strong password generator with a modern dark theme UI built with pure vanilla JavaScript - **no dependencies required**.
 
-## 🔐 Features
+##  Features
 
 - **Cryptographically Secure**: Uses `crypto.getRandomValues()` for true randomness
 - **Base64 Output**: Optional Base64 encoding for generated passwords
@@ -26,7 +26,7 @@ A secure, cryptographically-strong password generator with a modern dark theme U
 - **Accessibility**: ARIA labels and keyboard shortcuts
 - **Dark Mode Only**: Professional dark theme
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Modern web browser with JavaScript enabled
@@ -42,7 +42,7 @@ A secure, cryptographically-strong password generator with a modern dark theme U
 3. Click "🚀 Generate Secure Passwords"
 4. Copy individual passwords or use bulk actions
 
-## 📁 Files
+##  Files
 - `pass_gen_off.html` - Complete standalone application file
 
 ## ⌨️ Keyboard Shortcuts
@@ -53,14 +53,14 @@ A secure, cryptographically-strong password generator with a modern dark theme U
 - Works offline without any external files
 - Pure vanilla JavaScript implementation
 
-## 🛡️ Security Features
+##  Security Features
 - Cryptographically secure random number generation
 - Automatic memory clearing of sensitive data
 - Clipboard auto-clear after 60 seconds
 - No data transmission (fully client-side)
 - No external dependencies to trust
 
-## 🎨 UI Features
+##  UI Features
 - Modern gradient dark theme
 - Responsive grid layout
 - Touch-friendly controls
@@ -68,13 +68,13 @@ A secure, cryptographically-strong password generator with a modern dark theme U
 - High contrast mode support
 - Reduced motion support for accessibility
 
-## ⚡ Performance
+##  Performance
 - Faster load time (no external library loading)
 - Smaller total size when considering dependencies
 - Modern ES6+ JavaScript features
 - Optimized DOM manipulation
 
-## 🔄 Version Comparison
+##  Version Comparison
 This is the **Vanilla JavaScript version** 
 
 - Zero dependencies
@@ -82,11 +82,11 @@ This is the **Vanilla JavaScript version**
 - Maximum compatibility and portability
 - Fastest load times
 
-## 📝 License
+##  License
 MIT License - see LICENSE file for details
 
-## 👨‍💻 Author
+##  Author
 George Michalopoulos
 
 ---
-*Built with security and usability in mind. No passwords are stored or transmitted. Completely self-contained.*
+*No passwords are stored or transmitted. Completely self-contained.*
