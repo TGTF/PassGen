@@ -85,8 +85,6 @@ This is the **Vanilla JavaScript version**
 ##  License
 MIT License - see LICENSE file for details
 
-##  Author
-George Michalopoulos
 
 ---
 *No passwords are stored or transmitted. Completely self-contained.*
