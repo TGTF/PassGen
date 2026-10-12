@@ -1,10 +1,9 @@
 # Password Generator (Vanilla JavaScript Version)
 
-A secure, cryptographically-strong password generator with a modern dark theme UI built with pure vanilla JavaScript - **no dependencies required**.
+A secure, crypto-graphically strong password generator with a modern dark theme UI built with pure vanilla JavaScript - **no dependencies required**.
 
 ##  Features
-
-- **Cryptographically Secure**: Uses `crypto.getRandomValues()` for true randomness
+- **Crypto-graphically Secure**: Uses `crypto.getRandomValues()` for true randomness
 - **Base64 Output**: Optional Base64 encoding for generated passwords
 - **Zero Dependencies**: Pure vanilla JavaScript - works anywhere
 - **Customizable Character Sets**: 
@@ -45,10 +44,10 @@ A secure, cryptographically-strong password generator with a modern dark theme U
 ##  Files
 - `pass_gen_off.html` - Complete standalone application file
 
-## ⌨️ Keyboard Shortcuts
+##  Keyboard Shortcuts
 - `Ctrl/Cmd + Enter` - Generate passwords
 
-## 🔧 Dependencies
+##  Dependencies
 - **None** - Completely self-contained
 - Works offline without any external files
 - Pure vanilla JavaScript implementation
