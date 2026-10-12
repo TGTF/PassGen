@@ -39,7 +39,7 @@ A secure, cryptographically-strong password generator with a modern dark theme U
    - Choose number of passwords (1-50)
    - Select character sets
    - Toggle advanced options
-3. Click "🚀 Generate Secure Passwords"
+3. Click "Generate Secure Passwords"
 4. Copy individual passwords or use bulk actions
 
 ##  Files
